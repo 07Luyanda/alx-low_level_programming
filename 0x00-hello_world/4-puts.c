@@ -1,10 +1,9 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - A program that prints a line with put function
- * Return: 0 (success)
+ * main - Entry point
  */
 int main(void)
 {
-	put("\"Programming is like building a multilingual puzzle");
-return (o);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
